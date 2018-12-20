@@ -1,0 +1,30 @@
+@charset "utf-8";
+#basic {
+	height: 400px;
+	width: 250px;
+	float: left;
+}
+#image1 {
+	width: 350px;
+	height: 350px;
+	font-size: x-large;
+}
+#image2 {
+	width: 350px;
+	height: 350px;
+}
+#TEXT BOX {
+	width: 500px;
+	height: 824px;
+}
+#TEXT BOX {
+	width: 500px;
+	height: 300px;
+
+}
+#image4 {
+	height: 300px;
+	float: right;
+	width: 300px;
+	display: inherit;
+}
